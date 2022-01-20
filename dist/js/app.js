@@ -1,9 +1,9 @@
 /******/ (function() { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
-/***/ "./src/js/app.js":
+/***/ "./js/app.js":
 /*!***********************!*\
-  !*** ./src/js/app.js ***!
+  !*** ./js/app.js ***!
   \***********************/
 /***/ (function() {
 
@@ -11,9 +11,9 @@
 
 /***/ }),
 
-/***/ "./src/css/index.css":
+/***/ "./css/index.css":
 /*!***************************!*\
-  !*** ./src/css/index.css ***!
+  !*** ./css/index.css ***!
   \***************************/
 /***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -162,8 +162,8 @@ __webpack_require__.r(__webpack_exports__);
 /******/ 	// startup
 /******/ 	// Load entry module and return exports
 /******/ 	// This entry module depends on other loaded chunks and execution need to be delayed
-/******/ 	__webpack_require__.O(undefined, ["dist/css/style"], function() { return __webpack_require__("./src/js/app.js"); })
-/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, ["dist/css/style"], function() { return __webpack_require__("./src/css/index.css"); })
+/******/ 	__webpack_require__.O(undefined, ["dist/css/style"], function() { return __webpack_require__("./js/app.js"); })
+/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, ["dist/css/style"], function() { return __webpack_require__("./css/index.css"); })
 /******/ 	__webpack_exports__ = __webpack_require__.O(__webpack_exports__);
 /******/ 	
 /******/ })()
